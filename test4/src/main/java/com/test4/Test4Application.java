@@ -5,9 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test4Application {
+
 int x=10;
-	char m='d';
-	public static void main(String[] args) {
+char m='d';
+	
+  
+ 
+public static void main(String[] args) {
+
 
 		SpringApplication.run(Test4Application.class, args);
 	}
